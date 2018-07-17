@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: ms-core-auth
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        serviceId: ms-core-config
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:7001/eureka/
