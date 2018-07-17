@@ -21,6 +21,7 @@
     <modules>
         <module>../ms-core-registry</module>
         <module>../ms-core-config</module>
+        <module>../ms-core-auth</module>
     </modules>
 
 

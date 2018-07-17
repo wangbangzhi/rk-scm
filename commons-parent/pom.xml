@@ -18,6 +18,9 @@
 
     <artifactId>commons-parent</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>../commons-security</module>
+    </modules>
 
 
 </project>
